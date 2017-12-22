@@ -5,3 +5,5 @@
 BOARD_PLAT_PRIVATE_SEPOLICY_DIR += \
     device/custom/sepolicy/common/private
 
+BOARD_SEPOLICY_DIRS += \
+    device/custom/sepolicy/common/vendor
