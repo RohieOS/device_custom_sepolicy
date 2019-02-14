@@ -3,5 +3,4 @@
 #
 
 BOARD_SEPOLICY_DIRS += \
-    device/custom/sepolicy/qcom/common
-
+    device/custom/sepolicy/qcom/vendor
